@@ -22,5 +22,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://oaattia.github.io/sad"
+  "homepage": "http://oaattia.github.io/the-sad-frog"
 }
